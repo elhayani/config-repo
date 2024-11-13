@@ -44,7 +44,7 @@
       }
     ],
     "client": {
-      "example-client": [
+      "ze-client": [
         {
           "name": "client_user",
           "description": "Client-specific user role"
